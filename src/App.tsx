@@ -61,6 +61,7 @@ function App() {
         <RightPanel />
       </div>
 
+
       {/* Bottom Footer Bar */}
       <footer className="fixed bottom-0 left-0 right-0 h-8 bg-black/95 border-t border-red-alert/30 z-[60] flex items-center justify-center gap-8 text-[10px] text-gray-500 tracking-widest">
         <span className="flex items-center gap-2">
