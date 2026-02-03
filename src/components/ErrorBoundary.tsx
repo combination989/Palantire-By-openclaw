@@ -1,5 +1,7 @@
 import React from 'react';
 
+
+
 const searilizeError = (error: any) => {
   if (error instanceof Error) {
     return error.message + '\n' + error.stack;
